@@ -147,3 +147,5 @@ float getTemp(String request){
 
 } // getTemp function ends
 
+// video of robojax on DHT22 sensor: https://www.youtube.com/watch?v=oi_GPSLjgBY
+
